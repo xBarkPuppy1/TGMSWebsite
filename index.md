@@ -1,4 +1,4 @@
-Home | [notdone](404.php) | [Rules](rules.php) | [Executives](executives.php) | [notdone](404.php) | [notdone](404.php)
+Home  |  [notdone](404.php)  |  [Rules](rules.php)  |  [Executives](executives.php)  |  [notdone](404.php)  |  [notdone](404.php)
 
 #Why Hello There!
 
